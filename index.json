@@ -1,0 +1,264 @@
+{
+  "library": "synthesizer-percussion",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/synthesizer-percussion",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48",
+  "branch": "main",
+  "fileCount": 22,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/",
+  "files": [
+    {
+      "file": "Clap01.opus",
+      "name": "Clap01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/Clap01.opus",
+      "size": 4497,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Claves01.opus",
+      "name": "Claves01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/Claves01.opus",
+      "size": 746,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ClosedHiHat01-01.opus",
+      "name": "ClosedHiHat01-01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/ClosedHiHat01-01.opus",
+      "size": 1373,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ClosedHiHat02-01.opus",
+      "name": "ClosedHiHat02-01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/ClosedHiHat02-01.opus",
+      "size": 2049,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cymbal01-01.opus",
+      "name": "Cymbal01-01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/Cymbal01-01.opus",
+      "size": 18596,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cymbal01-02.opus",
+      "name": "Cymbal01-02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/Cymbal01-02.opus",
+      "size": 18136,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cymbal01-03.opus",
+      "name": "Cymbal01-03.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/Cymbal01-03.opus",
+      "size": 18548,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cymbal02.opus",
+      "name": "Cymbal02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/Cymbal02.opus",
+      "size": 12157,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "HighTom02-01.opus",
+      "name": "HighTom02-01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/HighTom02-01.opus",
+      "size": 3249,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "HighTom02-02.opus",
+      "name": "HighTom02-02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/HighTom02-02.opus",
+      "size": 3361,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Kick04.opus",
+      "name": "Kick04.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/Kick04.opus",
+      "size": 2933,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Kick06.opus",
+      "name": "Kick06.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/Kick06.opus",
+      "size": 2439,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "LowTom02-01.opus",
+      "name": "LowTom02-01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/LowTom02-01.opus",
+      "size": 2806,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "LowTom02-02.opus",
+      "name": "LowTom02-02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/LowTom02-02.opus",
+      "size": 2789,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MidTom02-01.opus",
+      "name": "MidTom02-01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/MidTom02-01.opus",
+      "size": 2696,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MidTom02-02.opus",
+      "name": "MidTom02-02.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/MidTom02-02.opus",
+      "size": 3216,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "OpenHiHat02-01.opus",
+      "name": "OpenHiHat02-01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/OpenHiHat02-01.opus",
+      "size": 2518,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Shaker04.opus",
+      "name": "Shaker04.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/Shaker04.opus",
+      "size": 966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ShakerLong01.opus",
+      "name": "ShakerLong01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/ShakerLong01.opus",
+      "size": 1328,
+      "note": "g0",
+      "midiNote": 19,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Snare09.opus",
+      "name": "Snare09.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/Snare09.opus",
+      "size": 1503,
+      "note": "e0",
+      "midiNote": 16,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Snare14.opus",
+      "name": "Snare14.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/Snare14.opus",
+      "size": 2063,
+      "note": "e1",
+      "midiNote": 28,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "SynthesizerPercussion-20220718.opus",
+      "name": "SynthesizerPercussion-20220718.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synthesizer-percussion-opus-48/main/SynthesizerPercussion-20220718.opus",
+      "size": 9606,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "16": [
+      "Snare09.opus"
+    ],
+    "19": [
+      "ShakerLong01.opus"
+    ],
+    "28": [
+      "Snare14.opus"
+    ]
+  }
+}
